@@ -352,7 +352,7 @@ justify-content: center;
 
   @media (max-width:950px) {
     .main{
-Padding: 1rem 0 0 0;
+
         flex-direction: column;
         height: 900px;
         text-align: center;
