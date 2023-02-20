@@ -355,6 +355,7 @@ justify-content: center;
         flex-direction: column;
         height: 900px;
         text-align: center;
+justify-content: center; 
     }
     .backimg{
         flex-direction: column;
